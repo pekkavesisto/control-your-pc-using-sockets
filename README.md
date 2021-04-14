@@ -51,3 +51,7 @@ Okay, for this all you will need is:
    Now in the [row 11](https://github.com/jarkko1/control-your-pc-using-sockets/blob/ef7e21fdb861e2a3dc64bd1090cd6737a702030c/client.py#L11) change ```port = 1234``` to ```port = 14753``` (```14753``` is an example port, you need to find yours in the cmd, it will look something like that)
    
 6. Now run ```client.py``` on Computer 2 (You need to run it through cmd)
+
+7. Now it should connect, you can test it by running like, ```open notepad```
+
+Keep in mind that the ngrok domain and port changes every time you restart ngrok.
