@@ -40,4 +40,11 @@ Okay, for this all you will need is:
 
 2. Then download [ngrok](https://ngrok.com/) on Computer 2, it doesn't need to be in the same folder but it will be easier if its in the same folder.
 
-3. 
+3. Start the ```server.py``` on Computer 1. (You need to run it through cmd)
+
+4. Open cmd in the folder where your ngrok is and type ```ngrok tcp 1234```.
+
+5. Now open the ```client.py``` file so you can edit it.
+   
+   In the [row 9](https://github.com/jarkko1/control-your-pc-using-sockets/blob/ef7e21fdb861e2a3dc64bd1090cd6737a702030c/client.py#L9)
+. Now run ```client.py``` on Computer 2 (You need to run it through cmd)
