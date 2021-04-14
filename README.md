@@ -38,4 +38,6 @@ Okay, for this all you will need is:
 
 1. Firstly, download the ```server.py``` on the computer you want to control (Lets call this Computer 1) and then the ```client.py``` on the other computer. (Lets call this Computer 2)
 
-2. Then download [ngrok](https://ngrok.com/) on same computer
+2. Then download [ngrok](https://ngrok.com/) on Computer 2, it doesn't need to be in the same folder but it will be easier if its in the same folder.
+
+3. 
