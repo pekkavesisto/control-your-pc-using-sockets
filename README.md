@@ -4,15 +4,15 @@
 
 
 
-This has been tested only on Windows 10, so i don't know if it will work on older versions
+This has been tested only on ```Windows 10```, so i don't know if it will work on older versions
 
 ## Usage
 
 1. Download the files in this repository
 
-2. Run the ``` server.py. ```
+2. Run the ``` server.py ```
 
-3. Then run the client.py
+3. Then run the ```client.py```
 
 4. Now the client will connect to the server.
 
