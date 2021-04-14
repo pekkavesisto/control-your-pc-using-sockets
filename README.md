@@ -7,7 +7,7 @@ You will need ```Python```
 Keyboard module:
 ```pip install keyboard```
 
-```A Computer or laptop (You can run these scripts on android using termux BUT you cant control your android)```
+A Computer or laptop (You can run these scripts on android using termux BUT you cant control your android)
 
 This has been tested only on ```Windows 10```, so i don't know if it will work on older versions
 
