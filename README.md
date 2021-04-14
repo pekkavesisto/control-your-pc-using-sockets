@@ -1,5 +1,7 @@
 # Control your PC with commands
 
+This is a simple python application that i made, you can control your pc using simple commands, for example: ```open chrome```
+
 ## Requirements
 
 You will need ```Python```
