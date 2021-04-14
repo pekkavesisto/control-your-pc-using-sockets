@@ -46,5 +46,8 @@ Okay, for this all you will need is:
 
 5. Now open the ```client.py``` file so you can edit it.
    
-   In the [row 9](https://github.com/jarkko1/control-your-pc-using-sockets/blob/ef7e21fdb861e2a3dc64bd1090cd6737a702030c/client.py#L9)
-. Now run ```client.py``` on Computer 2 (You need to run it through cmd)
+   In the [row 9](https://github.com/jarkko1/control-your-pc-using-sockets/blob/ef7e21fdb861e2a3dc64bd1090cd6737a702030c/client.py#L9) change ```host = "127.0.0.1"``` to ```host = "0.tcp.ngrok.io"``` (```0.tcp.ngrok.io``` is just an example domain, you need to find yours in the cmd, it will look something like that)
+   
+   Now in the [row 11](https://github.com/jarkko1/control-your-pc-using-sockets/blob/ef7e21fdb861e2a3dc64bd1090cd6737a702030c/client.py#L11) change ```port = 1234``` to ```port = 14753``` (```14753``` is an example port, you need to find yours in the cmd, it will look something like that)
+   
+6. Now run ```client.py``` on Computer 2 (You need to run it through cmd)
