@@ -9,7 +9,7 @@ You will need ```Python```
 Keyboard module:
 ```pip install keyboard```
 
-A Computer or laptop (You can run these scripts on android using termux BUT you cant control your android)
+A Computer or laptop (You can run these scripts on android using termux BUT you can't control your android)
 
 This has been tested only on ```Windows 10```, so i don't know if it will work on older versions
 
@@ -55,3 +55,5 @@ Okay, for this all you will need is:
 7. Now it should connect, you can test it by running like, ```open notepad```
 
 Keep in mind that the ngrok domain and port changes every time you restart ngrok.
+
+I'm not going to explain how to control your computer using your android but it works kind of the same way, your android acts as the Computer 2 and you will need to run the client.py using termux and also you need to run ngrok too, but there are tutorials on how to run ngrok on termux. Just google it!
