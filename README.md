@@ -28,3 +28,5 @@ This has been tested only on ```Windows 10```, so i don't know if it will work o
 The client will only connect to the server if the server is running on the same computer, BUT there is a way how you can control your computer from almost any device.
 
 ## Control your computer/laptop from another computer/laptop.
+
+Okay, for this you will need [ngrok](https://ngrok.com/)
