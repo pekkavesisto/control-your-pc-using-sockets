@@ -2,7 +2,7 @@
 
 ## Requirements
 
-You will need```Python```
+You will need ```Python```
 
 Keyboard module:
 ```pip install keyboard```
